@@ -37,22 +37,22 @@ We tried two approaches here:
 
 **Approach 1(Non deep learning model - Logistic regression):**
 The baseline model is created using Logistic regression. The Logistic regression model is created using one linear layer in pytorch and the predictions are generated using Softmax. The accuracy with this approach is very less as shown below
-<p align="center"><img align="center" width="800px" src="https://github.com/leocorelli/ComputerVisionProject/blob/main/logisticRegression.png"></p>
+<p align="center"><img align="center" width="800px" src="https://github.com/leocorelli/ComputerVisionProject/blob/main/images/logisticRegression.png"></p>
 
 **Approach 2(With Resnet-152):**
 For Deep learning approach we used pretrained Convolutional neural networks. The model is trained with Resnet-152 with no LR scheduler, Resnet-152 with OneCycle LR scheduler and Resnet-152 with Adam. The accuracy for all three models is as shown below
-<p align="center"><img align="center" width="800px" src="https://github.com/leocorelli/ComputerVisionProject/blob/main/resNetNoLR.png"></p>
-<p align="center"><img align="center" width="800px" src="https://github.com/leocorelli/ComputerVisionProject/blob/main/resnet1Cycle.png"></p>
-<p align="center"><img align="center" width="800px" src="https://github.com/leocorelli/ComputerVisionProject/blob/main/resnetAdam.png"></p>
+<p align="center"><img align="center" width="800px" src="https://github.com/leocorelli/ComputerVisionProject/blob/main/images/resNetNoLR.png"></p>
+<p align="center"><img align="center" width="800px" src="https://github.com/leocorelli/ComputerVisionProject/blob/main/images/resnet1Cycle.png"></p>
+<p align="center"><img align="center" width="800px" src="https://github.com/leocorelli/ComputerVisionProject/blob/main/images/resnetAdam.png"></p>
 
 **Approach 3(With Inception V3):**
 The model is trained with Incpetion V3. The training accuracy with InceptionV3 is 93.57% and test accuracy is 84.59%
-<p align="center"><img align="center" width="800px" src="https://github.com/leocorelli/ComputerVisionProject/blob/main/Inceptionv3.png"></p>
+<p align="center"><img align="center" width="800px" src="https://github.com/leocorelli/ComputerVisionProject/blob/main/images/Inceptionv3.png"></p>
 
 ## 4. Results
 
 Our model is able to predict the model of the cars with a accuracy of 84.59%.
-<p align="center"><img align="center" width="800px" src="https://github.com/leocorelli/ComputerVisionProject/blob/main/output.png"></p>
+<p align="center"><img align="center" width="800px" src="https://github.com/leocorelli/ComputerVisionProject/blob/main/images/output.png"></p>
 
 
 ## 5. Notebooks

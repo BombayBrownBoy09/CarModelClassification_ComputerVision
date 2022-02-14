@@ -15,8 +15,8 @@ The project data and codes are arranged in the following manner:
 ├── README.md               <- description of project and how to set up and run it
 ├── requirements.txt        <- requirements file to document dependencies
 ├── Makefile [OPTIONAL]     <- setup and run project from command line
-├── main.py [or main.ipynb] <- Contains notebook with trained on InceptionV3
-├── notebooks               <- Contains LogisticRegression and ResNet152 notebooks
+├── main.ipynb]             <- contains main notebook modeled using InceptionV3
+├── notebooks               <- contains LogisticRegression and ResNet152 notebooks
 ├── .gitignore              <- git ignore file
 ```
 

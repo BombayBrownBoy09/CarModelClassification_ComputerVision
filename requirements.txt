@@ -3,3 +3,7 @@ torch
 torchvision
 tqdm
 matplotlib
+numpy
+cv2
+tensorflow
+keras

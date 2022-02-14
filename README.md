@@ -56,6 +56,6 @@ Our model is able to predict the model of the cars with a accuracy of 84.59%.
 
 
 ## 5. Notebooks
-1) Non Deep learning(Logistic regression) [here](https://github.com/leocorelli/ComputerVisionProject/blob/main/notebooks/LogisticRegression_Car_Prediction.ipynb) 
-2) Notebook with Resnet models [here]
-3) Notebook with InceptionV3 model[here](https://github.com/leocorelli/ComputerVisionProject/blob/main/main.ipynb) 
+1) Non-Deep learning(Logistic regression) [here](https://github.com/leocorelli/ComputerVisionProject/blob/main/notebooks/LogisticRegression_Car_Prediction.ipynb) 
+2) Notebook with Resnet models [here](https://github.com/leocorelli/ComputerVisionProject/blob/main/notebooks/resnet.ipynb)
+3) Notebook with InceptionV3 model [here](https://github.com/leocorelli/ComputerVisionProject/blob/main/main.ipynb) 

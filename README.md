@@ -1,6 +1,6 @@
 # Comprehensive Cars Fine-Grain Car Model Classification
 **Project by Abhilash Sarnad, Bhargav Shetgaonkar, and Leo Corelli for Duke AIPI 540 Module 1**
-<p align="center"><img align="center" width="800px" src="https://github.com/leocorelli/ComputerVisionProject/blob/main/CompCars.png"></p>
+<p align="center"><img align="center" width="800px" src="https://github.com/leocorelli/ComputerVisionProject/blob/main/images/CompCars.png"></p>
 
 
 <a name="proj-stat"></a>

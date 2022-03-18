@@ -5,7 +5,7 @@
 
 <a name="proj-stat"></a>
 ## 1. Problem statement
-The objective of this project is to train a machine learning model to recognize the `model` of cars using images.
+The objective of this project is to train a machine learning model to recognize the `unique model` of cars using images.
 
 <a name="proj-struc"></a>
 ## 2. Project Structure
